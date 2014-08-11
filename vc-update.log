@@ -1,0 +1,92 @@
+
+Updating  /Users/sword/vc/gist/bad-words/
+Already up-to-date.
+Updating  /Users/sword/vc/gist/class-post-bling/
+Updating c1b0295..765ba71
+Done!
+Updating  /Users/sword/vc/github/PiCurious/
+Already up-to-date.
+Updating  /Users/sword/vc/github/SEO-Auto-Linker/
+Updating  /Users/sword/vc/github/WP-API/
+Already up-to-date.
+Updating  /Users/sword/vc/github/WP-Present-Master/
+Already up-to-date.
+Updating  /Users/sword/vc/github/WP-Present/
+Already up-to-date.
+Updating  /Users/sword/vc/github/WordPress-Generic-Project/
+Already up-to-date.
+Updating  /Users/sword/vc/github/WordPress-Plugin-Boilerplate/
+Already up-to-date.
+Updating  /Users/sword/vc/github/aperture/
+Already up-to-date.
+Updating  /Users/sword/vc/github/bp-automatic-friends/
+Already up-to-date.
+Updating  /Users/sword/vc/github/bp-present/
+Already up-to-date.
+Updating  /Users/sword/vc/github/developer/
+Already up-to-date.
+Updating  /Users/sword/vc/github/lift-search/
+Already up-to-date.
+Updating  /Users/sword/vc/github/reveal.js/
+Already up-to-date.
+Updating  /Users/sword/vc/github/sword-functions/
+Already up-to-date.
+Updating  /Users/sword/vc/github/vvv-auto-setup/
+Already up-to-date.
+Updating  /Users/sword/vc/github/wordpress-color-schemes/
+Already up-to-date.
+Updating  /Users/sword/vc/github/wordpress/
+Already up-to-date.
+Updating  /Users/sword/vc/github/wp-capsule-components/
+Already up-to-date.
+Updating  /Users/sword/vc/github/wp-capsule-ui/
+Already up-to-date.
+Updating  /Users/sword/vc/github/wp-capsule/
+Already up-to-date.
+Updating  /Users/sword/vc/github/wp-teapot/
+Already up-to-date.
+Updating  /Users/sword/vc/github/wpcom-connect-examples/
+Already up-to-date.
+Updating  /Users/sword/vc/github/wpe-core-report/
+Already up-to-date.
+Done!
+Updating  /Users/sword/vc/wpe/corereport/
+Updating  /Users/sword/vc/wpe/nas2/
+Already up-to-date.
+Done!
+Updating  /Users/sword/vc/svn/WordPress › seoslides « WordPress Plugins_files/
+Skipped '.'
+Summary of conflicts:
+  Skipped paths: 1
+Updating  /Users/sword/vc/svn/backpress/
+Updating  /Users/sword/vc/svn/beanstalk/
+Skipped '.'
+Summary of conflicts:
+  Skipped paths: 1
+Updating  /Users/sword/vc/svn/core.svn.wordpress.org/
+Updating '.':
+
+Fetching external item into 'wp-content/plugins/akismet':
+External at revision 964154.
+
+At revision 29246.
+Updating  /Users/sword/vc/svn/plugins.svn.wordpress.org/
+Skipped '.'
+Summary of conflicts:
+  Skipped paths: 1
+Updating  /Users/sword/vc/svn/unit-tests.svn.wordpress.org/
+Updating '.':
+
+Fetching external item into 'data/plugins/wordpress-importer':
+External at revision 964154.
+
+At revision 1337.
+Updating  /Users/sword/vc/svn/vip-svn.wordpress.com/
+Skipped '.'
+Summary of conflicts:
+  Skipped paths: 1
+Updating  /Users/sword/vc/svn/wpcom-themes.svn.automattic.com/
+Skipped '.'
+Summary of conflicts:
+  Skipped paths: 1
+Done!
